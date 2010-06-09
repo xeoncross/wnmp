@@ -25,7 +25,6 @@ phpMyAdmin makes managing MySQL databases easy. Download the phpMyAdmin files an
 Running the Server
 --------------------------------------------------------------------------------
 After each package has been placed in the correct folder then run the start_server.bat (by double-clicking) to start WNMP! Run stop_server.bat to close everything. It's as easy as that!
-After each package has been placed in the correct folder then run the start_server.bat (by double-clicking) to start WNMP! Run stop_server.bat to close everything. It's as easy as that!
 
 --------------------------------------------------------------------------------
 Notes
@@ -41,3 +40,6 @@ Make sure to create a my.ini file in the mysql folder. It is important that you 
 
 [Memcached]
 The start_server.bat file loads memcached using only 10MB of RAM by default. If you need more simply edit the file.
+
+--------------------------------------------------------------------------------
+David Pennington <xeoncross.com> <code2design.com>
